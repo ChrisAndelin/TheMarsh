@@ -4,4 +4,4 @@ Nestled inside of the large kingdom of Varous is a massive swamp known officiall
 
 Author: Robert Terrill
 
-Manifest URL: https://https://raw.githubusercontent.com/ChrisAndelin/TheMarsh/master/world.json
+Manifest URL: https://raw.githubusercontent.com/ChrisAndelin/TheMarsh/master/world.json
