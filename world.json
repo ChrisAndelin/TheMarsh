@@ -30,8 +30,8 @@
     }
   ],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/ChrisAndelin/FoundryVttWorlds/develop/the-marsh/world.json",
-  "download": "https://github.com/ChrisAndelin/FoundryVttWorlds/raw/develop/!deploy/the-marsh.zip",
+  "manifest": "https://https://raw.githubusercontent.com/ChrisAndelin/TheMarsh/master/world.json",
+  "download": "https://github.com/ChrisAndelin/TheMarsh/archive/refs/heads/master.zip",
   "protected": false,
   "background": "worlds/the-marsh/artwork/Marsh.jpg",
   "coreVersion": "0.8.8",
